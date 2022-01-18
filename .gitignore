@@ -1,0 +1,5 @@
+# se ignora la carpeta bin 
+bin
+
+# aca ignoramos todos los arhivos html, todos los archivos que terminen con .html
+*.html
